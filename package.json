@@ -1,0 +1,22 @@
+{
+  "name": "@bittencourt/utils",
+  "version": "1.0.0",
+  "description": "Code shared among multiple projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BittencourtMH/node-utils.git"
+  },
+  "keywords": [
+    "utilities"
+  ],
+  "author": "Marcelo Henrique Bittencourt <marcelohbittencourt@outlook.com> (https://www.npmjs.com/~bittencourt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BittencourtMH/node-utils/issues"
+  },
+  "homepage": "https://github.com/BittencourtMH/node-utils#readme"
+}
