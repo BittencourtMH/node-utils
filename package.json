@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/BittencourtMH/node-utils#readme",
   "devDependencies": {
-    "@types/node": "^24.0.4"
+    "@types/node": "^24.0.4",
+    "typescript": "^5.8.3"
   }
 }
