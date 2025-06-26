@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/BittencourtMH/node-utils/issues"
   },
-  "homepage": "https://github.com/BittencourtMH/node-utils#readme"
+  "homepage": "https://github.com/BittencourtMH/node-utils#readme",
+  "devDependencies": {
+    "@types/node": "^24.0.4"
+  }
 }
